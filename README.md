@@ -1,0 +1,1 @@
+ * Site feito em Next com TypeScript para divulgação de portfólio
